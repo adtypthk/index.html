@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+IBSI - Image Biomarker Standardisation Initiative
 
-You can use the [editor on GitHub](https://github.com/adtypthk/index.html/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The content below to be separated into multiple tabs?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adtypthk/index.html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Intro to the IBSI: Include space for some description
+News on the initiative (new versions, presentations, new tools, etc.)
+List of IBSI participants with institutions and emails. Could be this list: https://docs.google.com/spreadsheets/d/1GFrjEDh6sIKFLtfzAAP1zMg766HZ9tKF7SdUtuM8TRk/edit#gid=0. 
+Link to the IBSI reference manual on Overleaf (for the moment), read-only mode: https://www.overleaf.com/read/gncgcdbffrqs. We will eventually link it to the ReadTheDocs documentation page: http://ibsi.readthedocs.io
+Link to the IBSI supplementary materials: https://www.overleaf.com/read/xdfsshnrjqbj. We will eventually link it to the ReadTheDocs documentation page: http://ibsi.readthedocs.io
+Link to IBSI upload page: https://radiomics.hevs.ch/ibsi
+Links to the IBSI phantoms: 
+IBSI installment 1 − Phase 1: https://drive.google.com/file/d/1rVJyhYtxsGdUCN5c2Yuwchgesh0NTbaL/view?usp=sharing
+IBSI installment 1 − Phase 2: https://drive.google.com/file/d/1hEhiAnIsPg0GDPwoaph-WjJUdr0ToPP7/view?usp=sharing
+IBSI installment 2: https://drive.google.com/file/d/1eQUVIEDll85jQqJ72Xbw4La9zhFEy90a/view?usp=sharing
+Link to the IBSI installment 1 implementation results over time: https://drive.google.com/drive/folders/0Bw_fnRFPYX5vRzF3d3Y3ZXMtTG8
+Link to the IBSI official benchmark results: https://drive.google.com/file/d/1Fr83xTVIAwemNi7NyrPh3lPu19lmT_FV/view?usp=sharing
+Links to open-source software implementing (to some extent) IBSI standards:  pyRadiomics (https://github.com/Radiomics/pyradiomics), CERR (https://github.com/cerr/CERR), QIFE (https://github.com/riipl/3d_qifp).
+Comments/suggestions: link to the Google Group (https://groups.google.com/forum/#!forum/the_ibsi)
+Instructions on how to do pull requests on this webpage via GitHub.
+Main contacts for questions: ibsi.help@gmail.com
